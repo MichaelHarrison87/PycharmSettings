@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Pytest'" />
-    <option name="defaultScopeName" value="Project 'Pytest'" />
-    <option name="SEARCH_SCOPE" value="Project 'Pytest'" />
+    <option name="customScope" value="Project 'Hypermodern-Python'" />
+    <option name="defaultScopeName" value="Project 'Hypermodern-Python'" />
+    <option name="SEARCH_SCOPE" value="Project 'Hypermodern-Python'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
