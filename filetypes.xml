@@ -5,6 +5,7 @@
       <mapping pattern=".flake8" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
+      <mapping pattern=".darglint" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
