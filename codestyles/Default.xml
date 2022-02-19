@@ -7,4 +7,7 @@
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
   </Python>
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
 </code_scheme>
